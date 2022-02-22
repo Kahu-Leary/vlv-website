@@ -1,0 +1,25 @@
+  /* Colors */
+  $color-primary: #730039;
+  $color-primary-mod-light: hsla(330, 100%, 23%, 0.55);
+  $color-primary-mod-dark: hsla(330, 100%, 23%, 0.85);
+
+  $color-secondary: #ffc513;
+  $color-secondary-mod-light: hsla(45, 100%, 54%, 0.55);
+  $color-secondary-mod-dark: hsla(45, 100%, 54%, 0.85);
+
+  $color-tertiary: #ff724c;
+  $color-tertiary-mod-light: hsla(13, 100%, 65%, 0.55);
+  $color-tertiary-mod-dark: rgba(255, 115, 76, 0.85);
+
+  $color-quaternary: #f6eedf;
+  $color-quaternary-mod-light: hsla(39, 56%, 92%, 0.55);
+  $color-quaternary-mod-dark: hsla(39, 56%, 92%, 0.85);
+
+  /* Transition Values */
+  $transition-duration: 0.3s;
+
+  /* Section Title Font Size */
+  $font-size-title: calc(2rem + 2rem);
+
+  /* Section Padding */
+  $padding-section: 8vh 3vw;
